@@ -1,0 +1,21 @@
+.bg_container {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.min_container {
+  background-color: white;
+  height: 500px;
+  width: 600px;
+  border-radius: 40px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.countries_capital_container {
+  display: flex;
+}
